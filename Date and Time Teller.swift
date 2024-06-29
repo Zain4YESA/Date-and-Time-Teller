@@ -1,5 +1,5 @@
 import Foundation
-var title = "The Time"
+var title = "The Date and Time"
 let dateTime : Date = Date()
 print(title)
 print("Enter your choice, Yes or No?")
